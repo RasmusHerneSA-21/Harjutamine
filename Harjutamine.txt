@@ -1,1 +1,3 @@
 GitHub on arvutitarkvara hoidmiseks tehtud firma. Seda kasutavad tarkvaraarendajad ja muudki arendajad, kes tahavad kusagil hoida, muuta või jagada oma kodeeringuid või muid taolisi asju.
+GitHubis saan valmistada ning hoida oma koolitöid ja saan seda kasutada, kas koolist või ka kodust.
+GitHub asustati 2007. aastal ja selle asutajad olid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris. Ja sellest ajast hakkas see muutuma aina populaarsemaks. 2019. aasta oktoobris oli GitHubil ametlikult üle 34 miljoni registreerunud kasutaja.
